@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	cloud.google.com/go v0.81.0
-	cloud.google.com/go/internal/godocfx v0.0.0-20210416164805-eb2ed0dc7d6b
+	cloud.google.com/go/internal/godocfx v0.0.0-20210505232350-dc0103baeaf1
 	github.com/google/go-github/v34 v34.0.0
 	github.com/kr/text v0.2.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
@@ -13,7 +13,7 @@ require (
 	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420 // indirect
 	golang.org/x/oauth2 v0.0.0-20210427180440-81ed05c6b58c
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210503080704-8803ae5d1324
+	golang.org/x/sys v0.0.0-20210503173754-0981d6026fa6
 	google.golang.org/genproto v0.0.0-20210505142820-a42aa055cf76
 	google.golang.org/protobuf v1.26.0
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
