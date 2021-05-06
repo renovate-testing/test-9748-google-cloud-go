@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	cloud.google.com/go v0.81.0
-	cloud.google.com/go/internal/godocfx v0.0.0-20210416164805-eb2ed0dc7d6b
+	cloud.google.com/go/internal/godocfx v0.0.0-20210505232350-dc0103baeaf1
 	github.com/google/go-github/v34 v34.0.0
 	github.com/kr/text v0.2.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
